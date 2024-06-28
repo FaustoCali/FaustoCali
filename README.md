@@ -25,14 +25,9 @@
 ## Contacto
 - *📞 Teléfono:* (11) 2273-1605
 - *✉ Email:* [fausto.cali@gmail.com](mailto:fausto.cali@gmail.com?subject=Contacto%20desde%20GitHub&body=Hola%20Fausto,%20)
-
+- *💬 Discord:* [califa.](https://discordapp.com/users/558722533315182603)
 
 ## Proyectos
-Aquí puedes describir algunos de tus proyectos más destacados, incluyendo enlaces a los repositorios relevantes en GitHub.
-
-1. *🌟 Proyecto 1:* Descripción breve del proyecto.
-2. *🚀 Proyecto 2:* Descripción breve del proyecto.
-3. *🔧 Proyecto 3:* Descripción breve del proyecto.
 
 ## Objetivos
 🎯 Estoy interesado en aplicar mis conocimientos y habilidades en proyectos desafiantes, colaborar con equipos dinámicos, y continuar aprendiendo y creciendo en el campo de la ciencia de datos.
