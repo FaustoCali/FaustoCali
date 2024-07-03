@@ -23,11 +23,12 @@
 - *📘 Cursante del ciclo introductorio de la carrera de Licenciatura en Ciencia de Datos* en la Universidad de Buenos Aires
 
 ## Contacto
-- *📞 Teléfono:* (11) 2273-1605
+- *📞 Teléfono:* (+54) 11 2273-1605
 - *✉ Email:* [fausto.cali@gmail.com](mailto:fausto.cali@gmail.com?subject=Contacto%20desde%20GitHub&body=Hola%20Fausto,%20)
 - *💬 Discord:* [califa.](https://discordapp.com/users/558722533315182603)
 
 ## Proyectos
+- [Mis repositorios en GitHub](https://github.com/FaustoCali?tab=repositories)
 
 ## Objetivos
-🎯 Estoy interesado en aplicar mis conocimientos y habilidades en proyectos desafiantes, colaborar con equipos dinámicos, y continuar aprendiendo y creciendo en el campo de la ciencia de datos.
+🎯 Estoy interesado en aplicar mis conocimientos y habilidades en proyectos desafiantes, colaborar con equipos dinámicos, y continuar aprendiendo y creciendo en el campo de la ciencia de datos.
